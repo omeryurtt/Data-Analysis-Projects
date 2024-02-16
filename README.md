@@ -1,4 +1,4 @@
-# MY Portfolio 📊
+# my Portfolio 📊
 Welcome to my Data Analysis Portfolio! This repository serves as a collection of diverse analyses and explorations in different fields, showcasing my skills and insights gained through various projects.
 
 ## Overview
