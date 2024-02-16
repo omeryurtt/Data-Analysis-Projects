@@ -70,7 +70,7 @@ This project provides a comprehensive pipeline for scraping Amazon reviews, stor
 
 - Data Visualization with Graphs
 
-🔗 *Go to Repo to see detail of [project] (https://github.com/omeryurtt/Web-Scraping-and-Sentiment-Analysis/tree/main).
+🔗 *Go to Repo to see detail of [project](https://github.com/omeryurtt/Web-Scraping-and-Sentiment-Analysis/tree/main).*
 
 ## Nutrition and Health Tracking Excel Tool 📊🍕
 
@@ -90,7 +90,7 @@ Based on survey results, I have developed an automated Python API to extract dat
 ![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/search.gif)
 ![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/ezgif.com-video-to-gif%20(2).gif)
 
-🔗 *Go to Repo to see detail of [project] (https://github.com/omeryurtt/NutriTrack_Excel_Tool).
+🔗 *Go to Repo to see detail of [project](https://github.com/omeryurtt/NutriTrack_Excel_Tool).*
 
 
 # <p align="left">  Microsoft Power BI Projects <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" width="36" height="36" alt="Power BI" />  </p>
@@ -109,13 +109,15 @@ World of Data Professionals, explore the world of Data Professionals with insigh
    
 5. **Filtered Search by Job Title, Experience Level, Year**
 
-![](Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
 
-🔗 *Go to Repo to see detail of [project] (https://github.com/omeryurtt/Microsoft-Power-BI).
+ ![](https://github.com/omeryurtt/Microsoft-Power-BI/blob/main/Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
+
+🔗 *Go to Repo to see detail of [project](https://github.com/omeryurtt/Microsoft-Power-BI).*
 
 
 ## Connect with Me 📞
 ➤ [LinkedIn](https://www.linkedin.com/in/omer-yurt/)
+➤ e-mail: omeryurt2001@gmail.com
 
 ## Acknowledgments ✨
 **Thank you for exploring my portfolio! If you have any questions or feedback, feel free to reach out.**
