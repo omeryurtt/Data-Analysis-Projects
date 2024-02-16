@@ -4,7 +4,7 @@ Welcome to my Data Analysis Portfolio! This repository serves as a collection of
 ## Overview
 Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data. You can find the stories of the Data Sets and the details of my codes in the notebook.
 
-## Sales Analysis
+## Sales Analysis 🏷️
 Exploration of sales data, answering key questions and visualizing patterns.
 Mainly Tools Used: Python, Pandas, Matplotlib, Seaborn.
 
