@@ -2,7 +2,7 @@
 Welcome to my Data Analysis Portfolio! This repository serves as a collection of diverse analyses and explorations in different fields, showcasing my skills and insights gained through various projects.
 
 ## Overview
-Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data.
+Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data. You can find the stories of the Data Sets and the details of my codes in the notebook.
 
 ## Sales Analysis
 Exploration of sales data, answering key questions and visualizing patterns.
@@ -18,10 +18,10 @@ Mainly Tools Used: Python, Pandas, Matplotlib, Seaborn.
 - **Frequently Sold Together**
 
 - **Best-Selling Product**
-
-🔗 *Go to [JupyterNotebook](#)*
   
+🔗 *Go to [JupyterNotebook](2-Project-Sales-Analysis/sales-analysis.ipynb)*
 
+  
 ## LinkedIn Job Posting Analysis 📈
 
 The findings cover, from top job titles and companies to work type distributions, geographical opportunities, and more.
@@ -46,9 +46,13 @@ You can access the raw version of the data set [here](https://www.kaggle.com/dat
 
 - **Visual Work-Type Comparison:** Conclude with a visual comparison of work-type distributions using bar plots and a pie chart for a comprehensive view.
 
-🔗 *Go to [JupyterNotebook](#)*
+🔗 *Go to [JupyterNotebook](1-Project-Job-Analysis/job-analysis.ipynb)*
 
+## Connect with Me 📞
+➤ [LinkedIn](https://www.linkedin.com/in/omer-yurt/)
 
+## Acknowledgments
+**Thank you for exploring my portfolio! If you have any questions or feedback, feel free to reach out.**
 
 
 
