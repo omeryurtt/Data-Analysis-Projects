@@ -1,16 +1,38 @@
-# LinkedIn Job Posting Analysis 📈
+# Data Analysis Portfolio
+Welcome to my Data Analysis Portfolio! This repository serves as a collection of diverse analyses and explorations in different fields, showcasing my skills and insights gained through various projects.
 
 ## Overview
+Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data.
 
-Welcome to the LinkedIn Job Posting Analysis repository! The findings cover, from top job titles and companies to work type distributions, geographical opportunities, and more.
+## Sales Analysis
+Exploration of sales data, answering key questions and visualizing patterns.
+Mainly Tools Used: Python, Pandas, Matplotlib, Seaborn.
 
-## About the dataset
+### Key Insights 🔑
+- **Best Month for Sales**
+
+- **Top-Sales City**
+
+- **Optimal Advertisement Timing**
+
+- **Frequently Sold Together**
+
+- **Best-Selling Product**
+
+*Go to [JupyterNotebook](#)*
+  
+
+## LinkedIn Job Posting Analysis 📈
+
+The findings cover, from top job titles and companies to work type distributions, geographical opportunities, and more.
+
+### About the dataset
 This dataset pulls job postings from Google's search results for Data Analyst positions in the United States.
 Data collection started on November 4th, 2022, and adds ~100 new job postings to this dataset daily.
 
 You can access the raw version of the data set [here](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search) . 
 
-## Key Insights
+### Key Insights
 
 - **Job Titles and Companies:** Explore the distribution of job titles and discover the top 50 companies with the most job postings.
 
@@ -23,6 +45,21 @@ You can access the raw version of the data set [here](https://www.kaggle.com/dat
 - **Work Type Consolidation:** Simplify work types, presenting a clear picture of the dominant categories in job postings.
 
 - **Visual Work-Type Comparison:** Conclude with a visual comparison of work-type distributions using bar plots and a pie chart for a comprehensive view.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
  📢 If you have any suggestions, questions, or ideas, I am all ears! Your input is invaluable, and I would appreciate it if you could help improve my codes. Feel free to reach out with your feedback; it would be greatly welcomed!🧐
