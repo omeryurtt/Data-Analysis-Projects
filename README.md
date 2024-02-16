@@ -93,7 +93,7 @@ Based on survey results, I have developed an automated Python API to extract dat
 🔗 *Go to Repo to see detail of [project](https://github.com/omeryurtt/NutriTrack_Excel_Tool).*
 
 
-# <p align="left">  Microsoft Power BI Projects <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" width="36" height="36" alt="Power BI" />  </p>
+# <p align="left">  Microsoft Power BI Project <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" width="36" height="36" alt="Power BI" />  </p>
 
 World of Data Professionals, explore the world of Data Professionals with insights on their working conditions, annual salaries based on experience, the most sought-after job titles, and the intriguing comparison between earnings in large and small companies.
 
