@@ -2,7 +2,7 @@
 Welcome to my Data Analysis Portfolio! This repository serves as a collection of diverse analyses and explorations in different fields, showcasing my skills and insights gained through various projects.
 
 ## Overview
-Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data. You can find the stories of the Datasets and the details of my codes in the notebook.
+Here, you'll find a variety of analyses, each addressing unique questions and challenges within different domains.This portfolio reflects my passion for extracting meaningful insights from data. You can find the stories of the datasets and the details of my codes in the notebook.
 
 ## Sales Analysis 🏷️
 Exploration of sales data, answering key questions and visualizing patterns.
