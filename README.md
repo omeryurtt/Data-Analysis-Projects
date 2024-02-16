@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis Portfolio 📊
 Welcome to my Data Analysis Portfolio! This repository serves as a collection of diverse analyses and explorations in different fields, showcasing my skills and insights gained through various projects.
 
 ## Overview
@@ -19,7 +19,7 @@ Mainly Tools Used: Python, Pandas, Matplotlib, Seaborn.
 
 - **Best-Selling Product**
 
-*Go to [JupyterNotebook](#)*
+🔗 *Go to [JupyterNotebook](#)*
   
 
 ## LinkedIn Job Posting Analysis 📈
@@ -46,7 +46,7 @@ You can access the raw version of the data set [here](https://www.kaggle.com/dat
 
 - **Visual Work-Type Comparison:** Conclude with a visual comparison of work-type distributions using bar plots and a pie chart for a comprehensive view.
 
-
+🔗 *Go to [JupyterNotebook](#)*
 
 
 
