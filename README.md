@@ -52,7 +52,7 @@ You can access the raw version of the data set [here](https://www.kaggle.com/dat
 
 This project provides a comprehensive pipeline for scraping Amazon reviews, storing the data in a MySQL database, performing data analysis and sentiment analysis, and visualizing the results through graphs. The use of ScrapeOps Proxy enhances the scraping process, ensuring efficient data extraction from Amazon. The developed solution for handling token limitations demonstrates the project's adaptability and problem-solving approach.
 
-## Key Components:
+### Key Components:
 
 -	Sentiment Analysis: Analyzing sentiment trends using Python and NLTK.
 
