@@ -114,6 +114,57 @@ World of Data Professionals, explore the world of Data Professionals with insigh
 
 🔗 *Go to Repo to see detail of [project](https://github.com/omeryurtt/Microsoft-Power-BI).*
 
+## London-Bike-Sharing 🚲
+
+Alongside PowerBI, I explored and analyzed the raw data using Python, utilizing libraries such as Pandas and Seaborn. You can review my Jupyter Notebook, where you will find a summary of the data visualizations that provide answers to questions.
+
+### Questions:
+
+1. **How many bikes shared annually, monthly and daily?**
+
+2. **How many bike shared by Seasons?**
+
+3. **What is seasonal demand per hours for bikes?**
+   
+4. **What is hourly bike share by day?**
+   
+5. **Comparison of demand for bicycles on holidays and weekends?**
+
+6. **Biking Demand by Day of the Week (Percentage) & Seasonal Demand per Day for Bikes (Counts)**
+
+7. **What is the correlation between weather condition and bike sharing?**
+
+🔗 **[Explore Jupyter Notebook](5-Project-PowerBI/London-Bike-Sharing/london-bike-sharing-analysis.ipynb)**
+
+🔗 **[Explore Dashboard](5-Project-PowerBI/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
+
+
+   ![](5-Project-PowerBI/London-Bike-Sharing/Screenshot.png)
+
+
+
+## Recruitment Tracking Dashboard 💼
+
+Recruitment Dashboard, a powerful tool designed to streamline and enhance the recruitment process. This interactive dashboard, crafted using mock data, provides valuable insights into the demographic characteristics, education levels, experience, and salary expectations of job applicants. Additionally, it offers a user-friendly interface for effectively tracking the status of each application in the recruitment pipeline.
+
+### Dashboard Highlights
+
+1. **Demographic Overview**
+
+2. **Education Insights**
+
+3. **Experience Analysis**
+
+4. **Salary Expectations**
+
+5. **Process Tracking**
+
+🔗 **[Explore Dashboard](5-Project-PowerBI/Recruitment-Tracking/Recrutiment%20Tracking.pbix)**
+
+
+![](5-Project-PowerBI/Recruitment-Tracking/gif.gif)
+
+
 
 ## Connect with Me 📞
 ➤ [LinkedIn](https://www.linkedin.com/in/omer-yurt/)
